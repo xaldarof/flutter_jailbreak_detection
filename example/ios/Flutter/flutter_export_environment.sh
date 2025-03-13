@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/t.xoldarov/Documents/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/t.xoldarov/StudioProjects/flutter_jailbreak_detection/example"
+export "FLUTTER_ROOT=/Users/temurxoldarov/dev/flutter"
+export "FLUTTER_APPLICATION_PATH=/Users/temurxoldarov/StudioProjects/flutter_jailbreak_detection/example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
